@@ -1,6 +1,6 @@
 
 # Sintaxis Python
-
+hola1()
 1. Variables
 2. Comentarios
 3. Palabras reservadas
